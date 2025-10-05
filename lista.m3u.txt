@@ -1,0 +1,39 @@
+#EXTM3U
+
+# --- CANALES ARGENTINOS ---
+#EXTINF:-1, TV Pública (AR)
+https://ythls.armelin.one/channel/UC6mIxFTvXkWQVEHPsEdflzQ.m3u8
+#EXTINF:-1, Telefe (AR)
+https://ythls.armelin.one/channel/UC4ZKZxSt8qbm3uRrN42pP8A.m3u8
+#EXTINF:-1, El Trece (AR)
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1, América TV (AR)
+https://ythls.armelin.one/channel/UC6vsT0-gCw0GQ0zF4P1JrFw.m3u8
+#EXTINF:-1, Canal 9 (AR)
+https://ythls.armelin.one/channel/UCMRmXl5Y8lYQkO6tVtwcoOQ.m3u8
+#EXTINF:-1, Net TV (AR)
+https://ythls.armelin.one/channel/UCQfzPp-G5xNR0yE1dYoCOGg.m3u8
+
+# --- DEPORTES ---
+#EXTINF:-1, TyC Sports (AR)
+https://d3awnlgqz0szay.cloudfront.net/out/v1/bcf0975b17754ee987a9c117c62d8d41/index.m3u8
+#EXTINF:-1, DeporTV (AR)
+https://ythls.armelin.one/channel/UCE4OTUxtBH1P7_FsYlHq3gA.m3u8
+#EXTINF:-1, América Sports (AR)
+https://ythls.armelin.one/channel/UCmAIQ0GsGDAKHS-9iC5v9mw.m3u8
+#EXTINF:-1, ESPN (LatAm)
+https://ythls.armelin.one/channel/UCoG74GvdkWk0Aq3tR2hZQog.m3u8
+
+# --- NOTICIAS ---
+#EXTINF:-1, C5N (AR)
+https://ythls.armelin.one/channel/UCQPv2GOxWzL-Mi2UM8xU2QQ.m3u8
+#EXTINF:-1, TN Todo Noticias (AR)
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:-1, IP Noticias (AR)
+https://ythls.armelin.one/channel/UCpf78xcANIGhaCqX65dZbEA.m3u8
+#EXTINF:-1, LN+ (AR)
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1, A24 (AR)
+https://ythls.armelin.one/channel/UCt7fwAhXDy3oNFTAzF2o8Pw.m3u8
+#EXTINF:-1, Canal 26 (AR)
+https://ythls.armelin.one/channel/UCoc9DqZFfXgOq2iUsM5vF2A.m3u8
