@@ -1,39 +1,43 @@
 #EXTM3U
 
-# --- CANALES ARGENTINOS ---
-#EXTINF:-1, TV Pública (AR)
-https://ythls.armelin.one/channel/UC6mIxFTvXkWQVEHPsEdflzQ.m3u8
-#EXTINF:-1, Telefe (AR)
-https://ythls.armelin.one/channel/UC4ZKZxSt8qbm3uRrN42pP8A.m3u8
-#EXTINF:-1, El Trece (AR)
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1, América TV (AR)
-https://ythls.armelin.one/channel/UC6vsT0-gCw0GQ0zF4P1JrFw.m3u8
-#EXTINF:-1, Canal 9 (AR)
-https://ythls.armelin.one/channel/UCMRmXl5Y8lYQkO6tVtwcoOQ.m3u8
-#EXTINF:-1, Net TV (AR)
-https://ythls.armelin.one/channel/UCQfzPp-G5xNR0yE1dYoCOGg.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/60/CH_LOGO/60/40/0/0/60528493072631.png" group-title="Argentina | TV Abierta",America TV
+https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
 
-# --- DEPORTES ---
-#EXTINF:-1, TyC Sports (AR)
-https://d3awnlgqz0szay.cloudfront.net/out/v1/bcf0975b17754ee987a9c117c62d8d41/index.m3u8
-#EXTINF:-1, DeporTV (AR)
-https://ythls.armelin.one/channel/UCE4OTUxtBH1P7_FsYlHq3gA.m3u8
-#EXTINF:-1, América Sports (AR)
-https://ythls.armelin.one/channel/UCmAIQ0GsGDAKHS-9iC5v9mw.m3u8
-#EXTINF:-1, ESPN (LatAm)
-https://ythls.armelin.one/channel/UCoG74GvdkWk0Aq3tR2hZQog.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png" group-title="Argentina | TV Abierta",TV Pública
+https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
 
-# --- NOTICIAS ---
-#EXTINF:-1, C5N (AR)
-https://ythls.armelin.one/channel/UCQPv2GOxWzL-Mi2UM8xU2QQ.m3u8
-#EXTINF:-1, TN Todo Noticias (AR)
-https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
-#EXTINF:-1, IP Noticias (AR)
-https://ythls.armelin.one/channel/UCpf78xcANIGhaCqX65dZbEA.m3u8
-#EXTINF:-1, LN+ (AR)
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:-1, A24 (AR)
-https://ythls.armelin.one/channel/UCt7fwAhXDy3oNFTAzF2o8Pw.m3u8
-#EXTINF:-1, Canal 26 (AR)
-https://ythls.armelin.one/channel/UCoc9DqZFfXgOq2iUsM5vF2A.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png" group-title="Argentina | TV Abierta",Canal 9
+https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/69/CH_LOGO/60/40/0/0/65442435072354.png" group-title="Argentina | TV Abierta",Telefe
+https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/75/CH_LOGO/60/40/0/0/59037504071341.png" group-title="Argentina | TV Abierta",El Trece
+https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Noticias",A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/65/CH_LOGO/60/40/0/0/2980387507709.png" group-title="Noticias",C5N
+https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" group-title="Noticias",Canal 26
+https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/70/CH_LOGO/60/40/0/0/22986115071847.png" group-title="Noticias",TN
+https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
+
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/60/40/0/0/92564610073951.png" group-title="Deportes",ESPN Premium
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/269/CH_LOGO/60/40/0/0/80757659073986.png" group-title="Deportes",Cronica TV
+https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="Deportes",TyC Sports
+https://chromecast.cvattv.com.ar/live/c5eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd
+
+
+#EXTINF:-1 tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="Musica",Cumbia Mix
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
